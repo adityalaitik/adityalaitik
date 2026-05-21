@@ -33,18 +33,50 @@
 
 ---
 
+
+
+
 # ⚡ About Me
 
 <div align="center">
 
-💻 Senior Software Engineer at  
+<img src="https://img.shields.io/badge/Java_FullStack_Engineer-0f172a?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Distributed_Systems-2563eb?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud_Native-06b6d4?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<br/><br/>
+
+🏢 Senior Software Engineer at  
 <a href="https://www.linkedin.com/company/albertsons-companies-india/posts/?feedView=all">
-  <b>Albertsons Companies India</b>
+<b>Albertsons Companies India</b>
 </a>
 
 📍 Bengaluru, India
 
 </div>
+
+---
+
+<div align="center">
+
+☕ Building scalable backend systems with <b>Java, Spring Boot & Kafka</b>
+
+⚡ Passionate about <b>Distributed Systems, Microservices & Event Driven Architecture</b>
+
+🌐 Full Stack Engineer working with <b>Angular, React & Next.js</b>
+
+☁️ Experienced across <b>AWS, Azure, GCP, Kubernetes & Cloud Native Platforms</b>
+
+📊 Skilled in <b>Spark, Databricks, Airflow & Big Data Engineering</b>
+
+🤖 Exploring <b>AI Engineering, LLMs, Agentic Development & Reactive Programming</b>
+
+</div>
+
+
+
 
 ---
 
