@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">
 Full Stack Developer | Java Backend Engineer | AI Automation Explorer
@@ -150,4 +150,4 @@ Currently diving deep into:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 </p>
-```
+
