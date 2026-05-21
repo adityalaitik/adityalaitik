@@ -1,216 +1,190 @@
 
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<div align="center">
 
-<h3 align="center">
-Senior Software Engineer | Java Backend Engineer | Full Stack Developer | AI Automation Explorer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aditya%20Laitik&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff&desc=Senior%20Software%20Engineer%20|%20Java%20Backend%20Engineer&descAlignY=60&animation=fadeIn"/>
 
-<p align="center">
-  <a href="https://github.com/adityalaitik">
-    <img src="https://komarev.com/ghpvc/?username=adityalaitik&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/adityalaitik">
-    <img src="https://img.shields.io/github/followers/adityalaitik?label=Followers&style=social" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Distributed+Systems+%7C+Cloud+Native;Angular+%7C+React+%7C+Next.js;Spark+%7C+Databricks+%7C+Big+Data;AI+%7C+LLMs+%7C+Agentic+Coding" />
 
----
+<br/><br/>
 
-# 🚀 About Me
+<a href="https://github.com/adityalaitik">
+<img src="https://img.shields.io/github/followers/adityalaitik?logo=github&style=for-the-badge&color=black"/>
+</a>
 
-- 💻 Senior Software Engineer at Albertsons Companies India
-- ☕ Backend Engineer specialized in Java, Spring Boot & Distributed Systems
-- ⚡ Building scalable enterprise applications & event-driven microservices
-- 🤖 Exploring AI-powered SDLC Automation & Agentic Engineering
-- ☁️ Experienced with Azure, GCP, AWS & Cloud Native Architecture
-- 🔥 Skilled in Kafka, Spark, Databricks, Airflow & Big Data Pipelines
-- 🧠 Strong understanding of Reactive Programming & Scalable APIs
-- 🛠️ Working with Agentic Coding tools like Claude Code & Gemini CLI
-- 🌱 Passionate about System Design, LLMs & AI Agents
+<a href="https://komarev.com/ghpvc/?username=adityalaitik">
+<img src="https://komarev.com/ghpvc/?username=adityalaitik&label=Profile%20Views&style=for-the-badge&color=0ea5e9"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-laitik">
+<img src="https://img.shields.io/badge/LinkedIn-Aditya_Laitik-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/im_laitik_aditya">
+<img src="https://img.shields.io/badge/Instagram-@im__laitik__aditya-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ About Me
 
-## ☕ Backend & Architecture
+```yaml
+Name: Aditya Laitik
+Role: Senior Software Engineer
+Location: Bengaluru, India
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+Expertise:
+  - Java Backend Development
+  - Distributed Systems
+  - Event Driven Architecture
+  - Full Stack Engineering
+  - Cloud Native Applications
+  - Big Data Processing
+
+Currently Exploring:
+  - AI & LLM Engineering
+  - Agentic Coding
+  - Reactive Programming
+  - Advanced System Design
+````
+
+---
+
+# 🚀 Tech Universe
+
+<div align="center">
+
+## ☕ Backend & Microservices
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle" />
+
+<br/>
+
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
 ![Reactive Programming](https://img.shields.io/badge/Reactive_Programming-5C2D91?style=for-the-badge)
 
 ---
 
 ## 🎨 Frontend
 
-![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css" />
 
 ---
 
 ## ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins" />
+
+<br/>
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow)
 
 ---
 
-## 📊 Big Data & Analytics
+## 🗄️ Databases
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres" />
 
 ---
 
-## 🤖 AI & Agentic Coding
+## 🛠️ Tools
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge)
-![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-7B61FF?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/Large_Language_Models-8A2BE2?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,pycharm" />
 
----
-
-# 💼 Professional Experience
-
-## 🏢 Albertsons Companies India
-### Senior Software Engineer
-
-- Developing scalable enterprise applications using Java & Spring Boot
-- Designing event-driven microservices and distributed systems
-- Working on secure backend APIs and enterprise integrations
-- Building cloud-native and highly available platforms
+</div>
 
 ---
 
-## 🏢 Morgan Stanley
-### Software Engineer
+# 🧠 Engineering Focus
 
-- Developed highly available investment banking applications
-- Built batch processing systems using Spring Batch
-- Worked on secure transactional enterprise systems
-- Improved application scalability and resiliency
+<div align="center">
 
----
+| Backend       | Frontend   | Cloud      | AI                 |
+| ------------- | ---------- | ---------- | ------------------ |
+| Java          | Angular    | AWS        | LLMs               |
+| Spring Boot   | React      | Azure      | AI Agents          |
+| Kafka         | Next.js    | GCP        | Prompt Engineering |
+| Microservices | TypeScript | Kubernetes | Agentic Coding     |
 
-## 🏢 Lowe's India
-
-- Developed autocomplete and visual filtering systems
-- Built big data processing pipelines with Spark & Airflow
-- Worked with GCP, BigQuery & Dataproc clusters
-- Implemented enterprise-grade backend services
+</div>
 
 ---
 
-# 🔥 Featured Projects
+# 📈 GitHub Analytics
 
-## 🤖 AI-Powered SDLC Automation Platform
+<div align="center">
 
-Transforming business requirements into:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityalaitik&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-- Jira Stories
-- API Contracts
-- Architecture Flows
-- Test Cases
-- Code Scaffolding
-- Engineering Documentation
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityalaitik&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### Tech Used
-`AI Agents` `Spring Boot` `Angular` `Kafka` `LLMs`
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=adityalaitik&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🔐 Enterprise Authentication Platform
+# 🌱 Current Learning Path
 
-Authentication system supporting:
+<div align="center">
 
-- SPNEGO
-- Kerberos
-- SiteMinder
-- Spring Security
-- Header-based Authentication
+```mermaid id="kh71ax"
+mindmap
+  root((Engineering))
+    AI
+      LLMs
+      AI Agents
+      Agentic Coding
+    Backend
+      Distributed Systems
+      Reactive Programming
+      Kafka
+    Cloud
+      Kubernetes
+      Azure
+      GCP
+    Frontend
+      React
+      Next.js
+```
 
----
-
-## 📊 Big Data Processing Platform
-
-Built scalable pipelines using:
-
-- Spark
-- Databricks
-- Airflow
-- Kafka
-- BigQuery
-- GCP
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityalaitik&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityalaitik&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityalaitik&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🌱 Currently Learning
-
-```yaml
-- AI Agents
-- LLM Architecture
-- RAG Systems
-- Kubernetes
-- Reactive Programming
-- Advanced System Design
-- Distributed Systems
-- Agentic Engineering
-````
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/adityalaitik" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
+<div align="center">
+
+<a href="https://github.com/adityalaitik">
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
 </a>
 
-<a href="https://www.linkedin.com/in/aditya-laitik" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/aditya-laitik">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 </a>
-</p>
+
+<a href="https://www.instagram.com/im_laitik_aditya">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="60"/>
+</a>
+
+</div>
 
 ---
 
-# ⚡ Fun Fact
+<div align="center">
 
-> “From Requirement to Engineering Execution — Powered by AI.”
+### ⚡ Building scalable systems with engineering precision.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:2563eb"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=140&section=footer"/>
-</p>
+</div>
 
