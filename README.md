@@ -1,7 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aditya%20Laitik&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff&desc=Senior%20Software%20Engineer%20|%20Java%20Backend%20Engineer&descAlignY=60&animation=fadeIn"/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aditya&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff&desc=Senior%20Software%20Engineer%20@%20Albertsons%20Companies%20India&descAlignY=60&animation=fadeIn"/>
+
+
 
 <br/>
 
@@ -31,25 +35,38 @@
 
 # ⚡ About Me
 
-```yaml
-Name: Aditya Laitik
-Role: Senior Software Engineer
-Location: Bengaluru, India
+<div align="center">
 
-Expertise:
-  - Java Backend Development
-  - Distributed Systems
-  - Event Driven Architecture
-  - Full Stack Engineering
-  - Cloud Native Applications
-  - Big Data Processing
+💻 Senior Software Engineer at  
+<a href="https://www.linkedin.com/company/albertsons-companies-india/posts/?feedView=all">
+  <b>Albertsons Companies India</b>
+</a>
 
-Currently Exploring:
-  - AI & LLM Engineering
-  - Agentic Coding
-  - Reactive Programming
-  - Advanced System Design
-````
+📍 Bengaluru, India
+
+</div>
+
+---
+
+### 🚀 Engineering Expertise
+
+- ☕ Java Backend Development
+- ⚡ Event Driven Architecture
+- 🔥 Distributed Systems & Microservices
+- 🌐 Full Stack Engineering
+- ☁️ Cloud Native Applications
+- 📊 Big Data Processing
+
+---
+
+### 🧠 Currently Exploring
+
+- 🤖 AI & LLM Engineering
+- 🛠️ Agentic Coding
+- ⚡ Reactive Programming
+- 🏗️ Advanced System Design
+
+
 
 ---
 
@@ -116,13 +133,13 @@ Currently Exploring:
 
 ---
 
+
 # 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityalaitik&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityalaitik&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=adityalaitik&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -130,35 +147,14 @@ Currently Exploring:
 
 </div>
 
+
+
 ---
 
 # 🌱 Current Learning Path
 
 <div align="center">
 
-```mermaid id="kh71ax"
-mindmap
-  root((Engineering))
-    AI
-      LLMs
-      AI Agents
-      Agentic Coding
-    Backend
-      Distributed Systems
-      Reactive Programming
-      Kafka
-    Cloud
-      Kubernetes
-      Azure
-      GCP
-    Frontend
-      React
-      Next.js
-```
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
